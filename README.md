@@ -1,1 +1,1 @@
-i learned django from the GOAT "dave grey" it's very intrested to learn
+i learned django from the GOAT "dave gray" it's very intrested to learn
